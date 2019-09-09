@@ -1,0 +1,11 @@
+C:\Temp\EnumeraçõesEnum\bin\Debug\netcoreapp2.1\EnumeraçõesEnum.deps.json
+C:\Temp\EnumeraçõesEnum\bin\Debug\netcoreapp2.1\EnumeraçõesEnum.runtimeconfig.json
+C:\Temp\EnumeraçõesEnum\bin\Debug\netcoreapp2.1\EnumeraçõesEnum.runtimeconfig.dev.json
+C:\Temp\EnumeraçõesEnum\bin\Debug\netcoreapp2.1\EnumeraçõesEnum.dll
+C:\Temp\EnumeraçõesEnum\bin\Debug\netcoreapp2.1\EnumeraçõesEnum.pdb
+C:\Temp\EnumeraçõesEnum\obj\Debug\netcoreapp2.1\EnumeraçõesEnum.csprojAssemblyReference.cache
+C:\Temp\EnumeraçõesEnum\obj\Debug\netcoreapp2.1\EnumeraçõesEnum.csproj.CoreCompileInputs.cache
+C:\Temp\EnumeraçõesEnum\obj\Debug\netcoreapp2.1\EnumeraçõesEnum.AssemblyInfoInputs.cache
+C:\Temp\EnumeraçõesEnum\obj\Debug\netcoreapp2.1\EnumeraçõesEnum.AssemblyInfo.cs
+C:\Temp\EnumeraçõesEnum\obj\Debug\netcoreapp2.1\EnumeraçõesEnum.dll
+C:\Temp\EnumeraçõesEnum\obj\Debug\netcoreapp2.1\EnumeraçõesEnum.pdb

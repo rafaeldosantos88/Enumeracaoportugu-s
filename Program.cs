@@ -1,4 +1,6 @@
-﻿using System;
+﻿using EnumeraçõesEnum.Entidades;
+using EnumeraçõesEnum.Entidades.Enums;
+using System;
 
 namespace EnumeraçõesEnum
 {
@@ -6,7 +8,13 @@ namespace EnumeraçõesEnum
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Pedido pedido = new Pedido
+            {
+                Id = 1080,
+                Moment = DateTime.Now,
+                Status = PedidoStatus.PagamentoPedente
+            };
+            Console.WriteLine(pedido);
         }
     }
 }
