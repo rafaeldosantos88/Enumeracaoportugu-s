@@ -6,5 +6,8 @@ namespace EnumeraçõesEnum.Entidades
 {
     class Pedido
     {
+        public int Id { get; set; }
+        public DateTime Moment { get; set; }
+
     }
 }
